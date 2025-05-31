@@ -235,3 +235,4 @@ jobs:
         retention-days: 7
 ```
 
+[![Coverage Status](https://coveralls.io/repos/github/yakudza992683/lab05/badge.svg?branch=main)](https://coveralls.io/github/yakudza992683/lab05?branch=main)
